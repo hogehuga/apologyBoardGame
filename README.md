@@ -52,6 +52,9 @@ A game of an incident apology press conference.
   - 影響がどのようになりそうか、今後どのようになるのか、という観点から質問を行う
     - すべてに正確に答える必要はなく、謝罪会見時点で影響がある人が納得できそうな状況に落ち着ければよい
 
+![outline image](./readme-images/outline.png)
+
+
 # 詳細
 
 以降、順次検討/記載
