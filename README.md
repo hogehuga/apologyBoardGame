@@ -219,3 +219,11 @@ d. 今回の優秀チームを決め、得点を付ける
 |C.ステークホルダー配慮|o|o|o|o|
 |D.被害リカバリ施策|o|o|o|o|
 |E.再発防止策の実現性|o||o||
+
+# LICENSE
+
+Creative Commons: CC BY 4.0 をベースとします。
+- https://creativecommons.org/licenses/by/4.0/deed.ja が分かりやすい
+
+クレジットに関しては、以下を使用してください。
+- hogehuga / 脆弱性対応研究会
