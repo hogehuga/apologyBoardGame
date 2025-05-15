@@ -40,7 +40,7 @@ https://sloanreview.mit.edu/article/how-to-build-a-cyber-crisis-communications-p
 
 ### E.再発防止策
 
-## 被害例
+## 被害例など
 
 - 二重恐喝/B（脅迫）
   - 2022年11月のカプコン二重恐喝
