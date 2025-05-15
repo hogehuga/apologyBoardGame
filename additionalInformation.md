@@ -39,3 +39,15 @@ https://sloanreview.mit.edu/article/how-to-build-a-cyber-crisis-communications-p
 
 
 ### E.再発防止策
+
+## 被害例
+
+- 二重恐喝/B（脅迫）
+  - 2022年11月のカプコン二重恐喝
+    - 1100万ドル（11億5000万円/当時）の身代金
+    - Ragnar Lockerの公開は、22ファイル130GBを超える
+- DDoS攻撃/B
+  - 2015年11月のArmada Collevctive/DD4BC
+    - 複数拠点に100Gbps等の攻撃
+    - 身代金15BTC（約67万/当時）
+      - https://contacts.nissho-ele.co.jp/rs/951-JDX-440/images/Arbor_ddosconference_DL.pdf
